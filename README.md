@@ -2,15 +2,22 @@
 
 Live viewer: **https://vince191.github.io/pecoraro-family-tree/**
 
-Mobile-first family tree explorer (1,552 people). Names are real HTML so they show even if JavaScript is blocked.
+Updated 8 September 2026 from the corrected session JSON.
 
-## Use it
-- Phone: open the link in Safari or Chrome. The name list is the home screen. Tap a name for the profile.
-- Search and filters work in the header.
-- Tree and Map tabs need JavaScript (normal in every modern browser).
+- 1,742 people
+- 259 on the blood pedigree walked from Vincent Michael Anthony Pecoraro
+- 129 line stops (fewer than two parents)
+- 1,434 places mapped
+- Living contact fields stripped; names of living relatives remain
 
-## Enable GitHub Pages (first time only)
-Repo Settings → Pages → Source: **GitHub Actions**, or Deploy from branch **main** / **/** root.
+## Phone
+Open the link in Safari. Every name is real HTML in the page — they show even if JavaScript is late or blocked. Tap a name. Search, pedigree wireframes, and the map need JavaScript.
+
+## Tabs
+People · Tree (SVG pedigree) · Map (Leaflet) · Stats (generation completeness)
+
+## Enable GitHub Pages
+Repo Settings → Pages → Source: **GitHub Actions**.
 
 ## Privacy
-This repository is public. It includes names and dates for living relatives. Do not share the URL beyond family if that is a concern.
+Public repo. Do not share beyond family if living names are a concern.
